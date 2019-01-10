@@ -20,3 +20,15 @@ Getting help for downloading datasets from Kaggle API from https://www.kaggle.co
 **Link(s) to work**
 https://github.com/aditishenoy/healthcareai-r
 https://github.com/aditishenoy/pcam
+
+
+### Day 3: January 10, Thursday
+
+**Today's Progress**: Started building my first neural network today! Used pcam dataset and basic classification of TensorFlow. 
+
+**Thoughts** Quite excited about exploring a completely new field! Never worked with TensorFlow or image classification before. The large dataset is making my laptop quite slow so that is kind of frustating. But overall, very productive session today! 
+
+**Link(s) to work**
+https://www.tensorflow.org/tutorials/keras/basic_classification
+Found this very useful cheatsheet for importing data using python - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Cheat+Sheets/Importing_Data_Python_Cheat_Sheet.pdf
+

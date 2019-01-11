@@ -32,3 +32,13 @@ https://github.com/aditishenoy/pcam
 https://www.tensorflow.org/tutorials/keras/basic_classification
 Found this very useful cheatsheet for importing data using python - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Cheat+Sheets/Importing_Data_Python_Cheat_Sheet.pdf
 
+
+### Day 4: January 11, Friday
+
+**Today's Progress**: Tried finding out where and how to make changes to GitHub repo files.
+
+**Thoughts** Didn't get much to work today, still trying to figure out how it works. 
+
+**Link(s) to work**
+--
+

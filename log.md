@@ -42,3 +42,12 @@ Found this very useful cheatsheet for importing data using python - https://s3.a
 **Link(s) to work**
 --
 
+
+### Day 5: January 12, Saturday
+
+**Today's Progress**: Figured out where to make an edit in the repository!
+
+**Thoughts** Wonder if there is a better way to search for an overview of how all the programs are connected through the models
+
+**Link(s) to work**
+http://ugrad.stat.ubc.ca/R/library/e1071/html/naiveBayes.html

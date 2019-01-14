@@ -39,9 +39,6 @@ Found this very useful cheatsheet for importing data using python - https://s3.a
 
 **Thoughts** Didn't get much to work today, still trying to figure out how it works. 
 
-**Link(s) to work**
---
-
 
 ### Day 5: January 12, Saturday
 
@@ -60,4 +57,9 @@ http://ugrad.stat.ubc.ca/R/library/e1071/html/naiveBayes.html
 
 **Thoughts** Found that programming and running two files at the same time for testing if the code works on a smaller dataset would save time instead of testing on large dataset. 
 
-**Link(s) to work**
+### Day 6: January 13, Sunday
+
+**Today's Progress**: Attempted to train a basic neural network using the image dataset. Started using jupyter notebook.
+
+**Thoughts** Facing some issues with speed of processing and some run time errors. 
+

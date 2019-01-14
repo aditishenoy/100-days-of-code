@@ -57,7 +57,7 @@ http://ugrad.stat.ubc.ca/R/library/e1071/html/naiveBayes.html
 
 **Thoughts** Found that programming and running two files at the same time for testing if the code works on a smaller dataset would save time instead of testing on large dataset. 
 
-### Day 6: January 13, Sunday
+### Day 7: January 14, Monday
 
 **Today's Progress**: Attempted to train a basic neural network using the image dataset. Started using jupyter notebook.
 

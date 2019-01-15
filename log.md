@@ -63,3 +63,11 @@ http://ugrad.stat.ubc.ca/R/library/e1071/html/naiveBayes.html
 
 **Thoughts** Facing some issues with speed of processing and some run time errors. 
 
+### Day 8: January 15, Tuesday
+
+**Today's Progress**: Took a break from the same two projects I have been working on. Learned about Command Line Tools and Bash Scripting!
+
+**Thoughts** This was a fun exercise today, Codecademy has a great interface for practice!
+
+**Link(s) to work**
+https://www.codecademy.com/learn/learn-the-command-line

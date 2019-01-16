@@ -71,3 +71,15 @@ http://ugrad.stat.ubc.ca/R/library/e1071/html/naiveBayes.html
 
 **Link(s) to work**
 https://www.codecademy.com/learn/learn-the-command-line
+
+
+### Day 9: January 16, Wednesday
+
+**Today's Progress**: Delved into bioinfomatics today. Started Rosalind problems - Bioinformatics Textbook Track
+
+**Thoughts** Its going to take some time to brush up on basics!
+
+**Link(s) to work**
+http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
+https://stepik.org/lesson/2/step/7?after_pass_reset=true&unit=6
+

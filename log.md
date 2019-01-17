@@ -83,3 +83,11 @@ https://www.codecademy.com/learn/learn-the-command-line
 http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
 https://stepik.org/lesson/2/step/7?after_pass_reset=true&unit=6
 
+
+### Day 10: January 17, Thursday
+
+**Today's Progress**: Completed PatternCount function today and started working on FrequentWords function. 
+
+**Thoughts** Getting stuck with - "IndexError: list index out of range". Seems so simple but I'm not getting it. Hoepfully will work it out tomorrow!
+
+

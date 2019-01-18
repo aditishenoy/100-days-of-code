@@ -90,4 +90,13 @@ https://stepik.org/lesson/2/step/7?after_pass_reset=true&unit=6
 
 **Thoughts** Getting stuck with - "IndexError: list index out of range". Seems so simple but I'm not getting it. Hoepfully will work it out tomorrow!
 
+### Day 11: January 18, Friday
+
+**Today's Progress**: Started working with HTML for the first time today and developed a basic website design!
+
+**Thoughts** So motivated by today's progress!!
+
+**Link(s) to work**
+https://github.com/aditishenoy/aditishenoy.github.io
+
 

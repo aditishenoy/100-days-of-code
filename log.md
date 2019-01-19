@@ -99,4 +99,11 @@ https://stepik.org/lesson/2/step/7?after_pass_reset=true&unit=6
 **Link(s) to work**
 https://github.com/aditishenoy/aditishenoy.github.io
 
+### Day 12: January 19, Saturday
+
+**Today's Progress**: Continued working with HTML and CSS for building my personal website. 
+
+**Thoughts** Stuck with choosing an appropriate font. Haha. 
+
+
 

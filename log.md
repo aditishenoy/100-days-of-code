@@ -105,5 +105,10 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Thoughts** Stuck with choosing an appropriate font. Haha. 
 
+### Day 13: January 20, Sunday
+
+**Today's Progress**: Got some input and changed my course and approach a bit to build personal website.  
+
+**Thoughts** Great that I came across BootStrap CV templates. Would have taken so much more time had I started from scratch. 
 
 

@@ -111,4 +111,10 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Thoughts** Great that I came across BootStrap CV templates. Would have taken so much more time had I started from scratch. 
 
+### Day 14: January 21, Monday
+
+**Today's Progress**: Back to Rosalind exercises. Getting stuck at one point, hoping a fresh look at it tomorrow would help!   
+
+**Thoughts** Getting frustrated at this point.  
+
 

@@ -117,4 +117,8 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Thoughts** Getting frustrated at this point.  
 
+### Day 15: January 22, Tuesday
 
+**Today's Progress**: Personal Website finally taking some shape. Should be done with it soon!   
+
+**Thoughts** Very happy with progress today!

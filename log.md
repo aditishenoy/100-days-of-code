@@ -122,3 +122,9 @@ https://github.com/aditishenoy/aditishenoy.github.io
 **Today's Progress**: Personal Website finally taking some shape. Should be done with it soon!   
 
 **Thoughts** Very happy with progress today!
+
+### Day 16: January 23, Wednesday
+
+**Today's Progress**: Completed challenges in 1.2 Hidden Messages in the Replication Origin from Rosalind Bioinformatics Textbook Track and started with 1.3 today
+
+**Thoughts** Fresh outlook towards the same problem made it easier to solve!

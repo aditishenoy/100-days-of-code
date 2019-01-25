@@ -135,3 +135,10 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Thoughts** Sometimes these exercises are fun! 
 
+
+### Day 18: January 25, Friday
+
+**Today's Progress**: Dabbled a little bit in differnt projects today. 
+
+**Thoughts** Didn't feel like today was particularly productive. Maybe not a good idea to keep this one hour of coding at the end of a long day. 
+

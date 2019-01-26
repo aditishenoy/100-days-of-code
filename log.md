@@ -142,3 +142,8 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Thoughts** Didn't feel like today was particularly productive. Maybe not a good idea to keep this one hour of coding at the end of a long day. 
 
+### Day 19: January 26, Saturday
+
+**Today's Progress**: Worked with some WebDev. Trying to add a reference to a pdf on the desktop. 
+
+**Thoughts** NEED to wind up with this website by tomorrow. Its a week since I started this project.

@@ -147,3 +147,12 @@ https://github.com/aditishenoy/aditishenoy.github.io
 **Today's Progress**: Worked with some WebDev. Trying to add a reference to a pdf on the desktop. 
 
 **Thoughts** NEED to wind up with this website by tomorrow. Its a week since I started this project.
+
+### Day 20: January 27, Sunday
+
+**Today's Progress**: Done with website! Woohoo!
+
+**Thoughts** Feeling happy about having completed one project since I started this challenge.
+
+**Link(s) to work**
+https://aditishenoy.github.io/

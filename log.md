@@ -156,3 +156,9 @@ https://github.com/aditishenoy/aditishenoy.github.io
 
 **Link(s) to work**
 https://aditishenoy.github.io/
+
+### Day 21: January 28, Monday
+
+**Today's Progress**: Final touches to website and making sure everything works. 
+
+**Thoughts** Trying to figure out how to add pdf 

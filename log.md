@@ -162,3 +162,9 @@ https://aditishenoy.github.io/
 **Today's Progress**: Final touches to website and making sure everything works. 
 
 **Thoughts** Trying to figure out how to add pdf 
+
+### Day 22: January 29, Tuesday
+
+**Today's Progress**: All final touches done!
+
+**Thoughts** Nervous to publish. Hoping for some good feedback!

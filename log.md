@@ -168,3 +168,12 @@ https://aditishenoy.github.io/
 **Today's Progress**: All final touches done!
 
 **Thoughts** Nervous to publish. Hoping for some good feedback!
+
+### Day 23: January 30, Wednesday
+
+**Today's Progress**: Done with 3 Rosalind Bioinformatics Stronghold problems today!
+
+**Thoughts** Improved my speed of solving these problems today. I remember starting the first problem 4 years ago and gave up. And today I solved it within 10 minutes. Happy to see how far I've come! 
+
+**Link(s) to work**
+http://rosalind.info/problems/list-view/

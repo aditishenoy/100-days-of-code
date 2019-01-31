@@ -177,3 +177,8 @@ https://aditishenoy.github.io/
 
 **Link(s) to work**
 http://rosalind.info/problems/list-view/
+
+**Today's Progress**: Tried fixing bugs on my website.
+
+**Thoughts** Too tired to do anything more intense. 
+

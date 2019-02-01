@@ -184,3 +184,8 @@ http://rosalind.info/problems/list-view/
 
 **Thoughts** Too tired to do anything more intense. 
 
+### Day 25: February 1, Friday
+
+**Today's Progress**: Worked on 4th problem of Rosalind Bioinformatics Stronghold. 
+
+**Thoughts** Getting stuck and its frustrating. Hopefully, I'll crack it tomorrow. 

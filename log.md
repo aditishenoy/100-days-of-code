@@ -189,3 +189,9 @@ http://rosalind.info/problems/list-view/
 **Today's Progress**: Worked on 4th problem of Rosalind Bioinformatics Stronghold. 
 
 **Thoughts** Getting stuck and its frustrating. Hopefully, I'll crack it tomorrow. 
+
+### Day 26: February 2, Saturday
+
+**Today's Progress**: Worked with some Rosalind problems.
+
+**Thoughts** --

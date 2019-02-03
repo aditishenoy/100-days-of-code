@@ -195,3 +195,12 @@ http://rosalind.info/problems/list-view/
 **Today's Progress**: Worked with some Rosalind problems.
 
 **Thoughts** --
+
+### Day 27: February 3, Sunday
+
+**Today's Progress**: Started with Bioinformatics Contest: February 2019 today! (1/8)
+
+**Thoughts** Started working with Problem 3. Transposable Elements. Seems challenging but I am going to try my best and will see if I make it through :P
+
+**Link(s) to work**
+https://stepik.org/lesson/202328/step/2?unit=179664

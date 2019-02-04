@@ -204,3 +204,9 @@ http://rosalind.info/problems/list-view/
 
 **Link(s) to work**
 https://stepik.org/lesson/202328/step/2?unit=179664
+
+### Day 28: February 4, Monday
+
+**Today's Progress**: Worked with Bioinformatics Contest (2/8) and did a rosalind problem. 
+
+**Thoughts** Finding the contest challenging. 

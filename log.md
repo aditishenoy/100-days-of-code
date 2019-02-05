@@ -210,3 +210,9 @@ https://stepik.org/lesson/202328/step/2?unit=179664
 **Today's Progress**: Worked with Bioinformatics Contest (2/8) and did a rosalind problem. 
 
 **Thoughts** Finding the contest challenging. 
+
+### Day 29: February 5, Tuesday
+
+**Today's Progress**: Training a neural network for heart disease prediction and continued working on yesterday's problem. 
+
+**Thoughts** Too tired today to do productive work. 

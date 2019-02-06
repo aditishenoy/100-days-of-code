@@ -216,3 +216,7 @@ https://stepik.org/lesson/202328/step/2?unit=179664
 **Today's Progress**: Training a neural network for heart disease prediction and continued working on yesterday's problem. 
 
 **Thoughts** Too tired today to do productive work. 
+
+### Day 30: February 6, Wednesday
+
+**Today's Progress**: Was figuring out some things with github and restarted some work with pcam. 

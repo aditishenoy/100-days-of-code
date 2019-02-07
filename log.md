@@ -220,3 +220,12 @@ https://stepik.org/lesson/202328/step/2?unit=179664
 ### Day 30: February 6, Wednesday
 
 **Today's Progress**: Was figuring out some things with github and restarted some work with pcam. 
+
+### Day 31: February 7, Thursday
+
+**Today's Progress**: Worked more with pcam dataset and keras today. Trying to get a hang of using .h5 files. 
+
+**Thoughts** Using HDF5 is a really interesting alternative to what I'm used to (numpy/pandas) dataframes. 
+
+**Link(s) to work**
+https://github.com/aditishenoy/Training/tree/master/pcam

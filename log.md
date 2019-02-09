@@ -229,3 +229,13 @@ https://stepik.org/lesson/202328/step/2?unit=179664
 
 **Link(s) to work**
 https://github.com/aditishenoy/Training/tree/master/pcam
+
+### Day 32: February 8, Friday
+
+**Today's Progress**: I focused mostly on my thesis project today. Worked with command line and Linux containers today. Struggled with stand-alone Cuda so using tensorflow GPU instead.
+
+### Day 33: February 9, Saturday
+
+**Today's Progress**: Tried fixing a bug in the container I started working on yesterday. 
+
+**Thoughts** Getting stuck with some version compatibility issues. 

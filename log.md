@@ -245,3 +245,9 @@ https://github.com/aditishenoy/Training/tree/master/pcam
 **Today's Progress**: After almost a week of struggling to get the code to work, I finally fixed the bugs and succesfully got it to work on the GPU today. 
 
 **Thoughts** Despite the frustration faced while programming, the happiness when the desired outcome is reached is indescribable. I AM SO SO HAPPY.  
+
+### Day 35: February 11, Monday
+
+**Today's Progress**: Worked with Keras and started breaking down concepts into small understandable parts in my Training repo on github
+
+**Thoughts** Still trying to figure out git and commits

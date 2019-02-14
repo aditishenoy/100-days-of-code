@@ -256,4 +256,7 @@ https://github.com/aditishenoy/Training/tree/master/pcam
 
 **Today's Progress**: Started with W1 of CNN course - really helps with understanding and applying the concepts for my project!
 
+### Day 37: February 13, Wednesday
+
+**Today's Progress**: Continued working with this today - Worked with Keras and started breaking down concepts into small understandable parts in my Training repo on github
 

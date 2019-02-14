@@ -260,3 +260,7 @@ https://github.com/aditishenoy/Training/tree/master/pcam
 
 **Today's Progress**: Continued working with this today - Worked with Keras and started breaking down concepts into small understandable parts in my Training repo on github
 
+### Day 38: February 14, Thursday
+
+**Today's Progress**: Spent time fixing some bugs in the code today. Can't figure out where the problem is 
+

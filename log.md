@@ -264,3 +264,12 @@ https://github.com/aditishenoy/Training/tree/master/pcam
 
 **Today's Progress**: Spent time fixing some bugs in the code today. Can't figure out where the problem is 
 
+### Day 39: February 15, Friday
+
+**Today's Progress**: Tested some changes to a deep CNN on CIFAR10 dataset
+
+**Thoughts** So excited to learn more about NN! 
+
+**Link(s) to work**
+https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
+

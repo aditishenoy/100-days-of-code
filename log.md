@@ -273,3 +273,8 @@ https://github.com/aditishenoy/Training/tree/master/pcam
 **Link(s) to work**
 https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
+### Day 40: February 16, Saturday
+
+**Today's Progress**: Worked with some parameter tuning today. 
+
+**Thoughts** Don't think I've ever stuck to something for 40 days in a row before! 

@@ -277,4 +277,10 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
 **Today's Progress**: Worked with some parameter tuning today. 
 
-**Thoughts** Don't think I've ever stuck to something for 40 days in a row before! 
+**Thoughts** Don't think I've ever stuck to something for 40 days in a row before!
+
+### Day 41: February 17, Sunday
+
+**Today's Progress**: Trying to set up a container on my machine
+
+**Thoughts** Super fascinated by the concept of containers

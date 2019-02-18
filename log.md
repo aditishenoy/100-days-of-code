@@ -284,3 +284,7 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 **Today's Progress**: Trying to set up a container on my machine
 
 **Thoughts** Super fascinated by the concept of containers
+
+### Day 42: February 18, Monday
+
+**Today's Progress**: Set up docker on my machine. Trying to access python from the container now.

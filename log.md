@@ -288,3 +288,11 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 ### Day 42: February 18, Monday
 
 **Today's Progress**: Set up docker on my machine. Trying to access python from the container now.
+
+### Day 43: February 19, Tuesday
+
+**Today's Progress**: Found singularity and vagrant easier to install and navigate through.  
+
+**Thoughts** Getting stuck with accessing the files on the host machine through the guest. Any ideas on how to do this? 
+
+**Link(s) to work** Using this: https://www.vagrantup.com/docs/synced-folders/basic_usage.html Changed the first parameter to the file path on host and second parameter to path for guest. 

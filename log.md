@@ -296,3 +296,9 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 **Thoughts** Getting stuck with accessing the files on the host machine through the guest. Any ideas on how to do this? 
 
 **Link(s) to work** Using this: https://www.vagrantup.com/docs/synced-folders/basic_usage.html Changed the first parameter to the file path on host and second parameter to path for guest. 
+
+### Day 44: February 20, Wednesday
+
+**Today's Progress**: Figuring out how to get a probability distribution using softmax. 
+
+**Thoughts** Getting frustrated cause I understand the concept but is getting challenging to implement

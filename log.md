@@ -302,3 +302,19 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 **Today's Progress**: Figuring out how to get a probability distribution using softmax. 
 
 **Thoughts** Getting frustrated cause I understand the concept but is getting challenging to implement
+
+### Day 45: February 21, Thursday
+
+**Today's Progress**: Continued working on this and figured it out today! The labels need to be converted to categorical first to change it from a regression to classification problem. 
+
+### Day 46: February 22, Friday
+
+**Today's Progress**: Fixed some inconsistencies in this code today. Finally producing a non-nan output! 
+
+### Day 47: February 24, Sunday
+
+**Today's Progress**: Worked with loss functions today!
+
+
+
+

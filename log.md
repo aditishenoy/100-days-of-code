@@ -315,6 +315,10 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
 **Today's Progress**: Worked with loss functions today!
 
+### Day 48: February 25, Monday
 
+**Today's Progress**: Getting the class probabilities from the softmax layer as an output. Still working on this and plotting it as a histogram. Worked on documenting some parts of my codes as well. 
+
+**Thoughts** I felt too distracted today
 
 

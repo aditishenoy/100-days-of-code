@@ -322,3 +322,9 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 **Thoughts** I felt too distracted today
 
 
+### Day 49: February 26, Tuesday
+
+**Today's Progress**: Starting a new project today - training cifar10 dataset using different nn architectures. Started off with a basic sequential model. Will optimize and move on to U-net tomorrow. 
+
+**Link(s) to work** https://github.com/aditishenoy/Thesis--Neural-networks
+

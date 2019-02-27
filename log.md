@@ -328,3 +328,7 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
 **Link(s) to work** https://github.com/aditishenoy/Thesis--Neural-networks
 
+### Day 50: February 27, Wednesday
+
+**Today's Progress**: Started learning and using vim today! Love it! 
+

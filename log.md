@@ -332,3 +332,6 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
 **Today's Progress**: Started learning and using vim today! Love it! 
 
+## Day 51: February 28, Thursday
+
+**Today's Progress**: Working with creating visualization of Actual vs Predicted values

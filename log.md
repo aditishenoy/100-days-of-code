@@ -335,3 +335,11 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 ## Day 51: February 28, Thursday
 
 **Today's Progress**: Working with creating visualization of Actual vs Predicted values
+
+## Day 52: March 1, Friday
+
+**Today's Progress**: Working more with creating visualization of Actual vs Predicted values
+
+## Day 53: March 2, Saturday
+
+**Today's Progress**: Trained the cifar10 dataset with and without data augmentation on GPU

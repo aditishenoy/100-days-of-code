@@ -343,3 +343,7 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 ## Day 53: March 2, Saturday
 
 **Today's Progress**: Trained the cifar10 dataset with and without data augmentation on GPU
+
+## Day 54: March 3, Sunday
+
+**Today's Progress**: Attempting to train cifar10 using u-net

@@ -347,3 +347,58 @@ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 ## Day 54: March 3, Sunday
 
 **Today's Progress**: Attempting to train cifar10 using u-net
+
+## Day 55: March 4, Monday
+
+**Today's Progress**: Continued with figuring out u-net
+
+## Day 56: March 5, Tuesday
+
+**Today's Progress**: Getting a dimensionality mismatch while fitting the model using unet. Hopefully will figure this out during tomorrow's coding session! 
+
+## Day 57: March 6, Wednesday
+
+**Today's Progress**: Worked with performance metrics
+
+## Day 58: March 7, Thursday
+
+**Today's Progress**: Deployed mean absolute error and relative absolute error for the predictions and visualised them. Anyone have tips for better visualisations in python other than matplotlib line plots?
+
+## Day 59: March 8, Friday
+
+**Today's Progress**: Found an error in the predictions so worked on getting those right today
+
+## Day 60: March 9, Saturday
+
+**Today's Progress**: Everything that was working last week stopped working suddenly. Spent today trying to understand what happened 😢 
+
+## Day 61: March 10, Sunday
+
+**Today's Progress**: Tried going to the concepts on understanding how to convert regression problem to classification to break down the problem step by step.  
+
+
+## Day 62: March 11, Monday
+
+**Today's Progress**:Successfully made the bins and got the categorical cross entropy to work. Getting loss as nan for some reason.  🤔 
+Any suggestions on what I can do to fix this?
+
+
+## Day 63: March 12, Tuesday
+
+**Today's Progress**: Changed the loss function from categorical cross entropy to MSE and the curse of the nan's stopped! 🎉 Training speed is significantly slower though. Need to still figure out how to get predictions as class probabilities. 
+
+## Day 64: March 13, Wednesday
+
+**Today's Progress**:Learnt about this beautiful resource @TensorBoard. Produces such beautiful visualisations to help figure out what's wrong with my network! 🎉 
+
+## Day 65: March 14, Thursday
+
+**Today's Progress**:continued with trying to make this work 🤦 
+
+## Day 66: March 15, Friday
+
+**Today's Progress** Code stopped giving nan loss!!! 🎉🎉 Just need to figure out how to calculate and sort the predictions now! 
+
+## Day 67: March 17, Sunday
+
+**Today's Progress** Obtained class probabilities and figured out how to calcuate cummulative sum from softmax function! 

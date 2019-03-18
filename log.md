@@ -402,3 +402,7 @@ Any suggestions on what I can do to fix this?
 ## Day 67: March 17, Sunday
 
 **Today's Progress** Obtained class probabilities and figured out how to calcuate cummulative sum from softmax function! 
+
+## Day 68: March 18, Monday
+
+**Today's Progress** Wasn't too productive today 😓 Getting stuck again with training CIFAR10 using U-Net architecture. 

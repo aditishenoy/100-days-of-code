@@ -406,3 +406,11 @@ Any suggestions on what I can do to fix this?
 ## Day 68: March 18, Monday
 
 **Today's Progress** Wasn't too productive today 😓 Getting stuck again with training CIFAR10 using U-Net architecture. 
+
+## Day 69: March 19, Tuesday
+
+**Today's Progress** Worked with performance metrics based on new predictions
+
+## Day 70: March 20, Wednesday
+
+**Today's Progress** Can't believe its already Day 70!! Worked with figuring out the dimentionality mismatch for unet architecture today. 

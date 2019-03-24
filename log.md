@@ -407,10 +407,24 @@ Any suggestions on what I can do to fix this?
 
 **Today's Progress** Wasn't too productive today 😓 Getting stuck again with training CIFAR10 using U-Net architecture. 
 
-## Day 69: March 19, Tuesday
+### Day 69: March 19, Tuesday
 
 **Today's Progress** Worked with performance metrics based on new predictions
 
-## Day 70: March 20, Wednesday
+### Day 70: March 20, Wednesday
 
 **Today's Progress** Can't believe its already Day 70!! Worked with figuring out the dimentionality mismatch for unet architecture today. 
+
+### Day 71: March 22, Friday
+**Today's Progress**: Took a break from neural networks and worked with some HTML for my website today. 
+
+### Day 72: March 23, Saturday
+**Today's Progress**: Trying to find out why my nn is overfitting. Didn't do much at all. 
+
+### Day 73: March 24, Sunday
+**Today's Progress**: Continued with HTML today. Its refreshing to change projects to something completely different sometimes! 
+
+
+
+
+

@@ -424,7 +424,8 @@ Any suggestions on what I can do to fix this?
 ### Day 73: March 24, Sunday
 **Today's Progress**: Continued with HTML today. Its refreshing to change projects to something completely different sometimes! 
 
-
+### Day 74: March 25, Monday
+**Today's Progress**: Changing hyper-parameters to optimize nn and stop overfitting 
 
 
 

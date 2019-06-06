@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - Aditi Shenoy
+
+The log of my #100DaysOfCode challenge. Started on [January 8, Tuesday, 2019].
+
+## Log
 
 ### Day 1: January 8, Tuesday
 
@@ -427,5 +431,5 @@ Any suggestions on what I can do to fix this?
 ### Day 74: March 25, Monday
 **Today's Progress**: Changing hyper-parameters to optimize nn and stop overfitting 
 
-
+Stopped updating here from D74 - D100. 
 

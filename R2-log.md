@@ -12,3 +12,8 @@ The log of my #100DaysOfCode challenge. Started on [June 5, Wednesday, 2019].
 
 **Link(s) to work** Haven't committed to Git yet. 
 
+### Day 2: June 6
+R2D02 - Made all the changes I wanted to on my website for now. Check it out here: https://aditishenoy.github.io/  Any feedback would be much appreciated :)
+
+### Day 3: June 7
+R2D03 - Brushed up on containers and singularity. Trying to build a singularity image for tensorflow-gpu 

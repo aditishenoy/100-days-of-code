@@ -17,3 +17,8 @@ R2D02 - Made all the changes I wanted to on my website for now. Check it out her
 
 ### Day 3: June 7
 R2D03 - Brushed up on containers and singularity. Trying to build a singularity image for tensorflow-gpu 
+
+-- Took Weekend off (Much Needed!)-- 
+
+### Day 4: June 10
+R2D04 - Think I am doing something wrong while building the singularity container. 🤔 Finding a lot of inconsistencies with python packages I need in the container each time I log in. Anybody know of any good and easy-to-follow resources for using singularity? #100DaysOfCode

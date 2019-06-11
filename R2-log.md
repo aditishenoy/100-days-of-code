@@ -22,3 +22,6 @@ R2D03 - Brushed up on containers and singularity. Trying to build a singularity 
 
 ### Day 4: June 10
 R2D04 - Think I am doing something wrong while building the singularity container. 🤔 Finding a lot of inconsistencies with python packages I need in the container each time I log in. Anybody know of any good and easy-to-follow resources for using singularity? #100DaysOfCode
+
+### Day 5: June 11
+R2D05 - Made some progress with using an existing container. Worked on bringing all my packages and data in the right place today. #100DaysOfCode

@@ -25,3 +25,8 @@ R2D04 - Think I am doing something wrong while building the singularity containe
 
 ### Day 5: June 11
 R2D05 - Made some progress with using an existing container. Worked on bringing all my packages and data in the right place today. #100DaysOfCode
+
+
+### Day 1: July 13
+R2D01 - Giving #100DaysOfCode another shot! 🤗
+Set up my container with packages today. Starting with program to use PCA for dimensionality reduction.

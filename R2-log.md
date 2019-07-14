@@ -30,3 +30,6 @@ R2D05 - Made some progress with using an existing container. Worked on bringing 
 ### Day 1: July 13
 R2D01 - Giving #100DaysOfCode another shot! 🤗
 Set up my container with packages today. Starting with program to use PCA for dimensionality reduction.
+
+### Day 2: July 14
+R2D02 - Finally figured out how to open an image from the terminal using a remote server. Yes, sounds simple but I'm proud of myself #100DaysOfCode 

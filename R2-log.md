@@ -33,3 +33,6 @@ Set up my container with packages today. Starting with program to use PCA for di
 
 ### Day 2: July 14
 R2D02 - Finally figured out how to open an image from the terminal using a remote server. Yes, sounds simple but I'm proud of myself #100DaysOfCode 
+
+### Day 3: July 15
+R2D03 - Explored the dataset and sorted features/targets. Finally understood what kernels on kaggle are! 🙈 Started my analysis on my first notebook there today! THERE'S SO MUCH TO LEARN I LOVE THIS #100DaysOfCode

@@ -36,3 +36,6 @@ R2D02 - Finally figured out how to open an image from the terminal using a remot
 
 ### Day 3: July 15
 R2D03 - Explored the dataset and sorted features/targets. Finally understood what kernels on kaggle are! 🙈 Started my analysis on my first notebook there today! THERE'S SO MUCH TO LEARN I LOVE THIS #100DaysOfCode
+
+### Day 4: July 16
+R2D04 - Worked through some concepts in DL today. Will hopefully get to implement them successfully during tomorrow's session! #100DaysOfCode 

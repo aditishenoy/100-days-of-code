@@ -39,3 +39,13 @@ R2D03 - Explored the dataset and sorted features/targets. Finally understood wha
 
 ### Day 4: July 16
 R2D04 - Worked through some concepts in DL today. Will hopefully get to implement them successfully during tomorrow's session! #100DaysOfCode 
+
+### Day 5: July 17
+R2D05 - Implemented Logistic Regression for binary and multi-class classification. Quick hack I came across today to add colour to vim:
+
+1) Create file called ~/.vimrc
+2) Run vi ~/.vimrc in the terminal
+3) Type 'syntax on' and save 
+4) Open vi normally 🎉
+
+#100DaysOfCode

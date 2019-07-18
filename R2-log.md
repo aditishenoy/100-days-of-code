@@ -27,6 +27,8 @@ R2D04 - Think I am doing something wrong while building the singularity containe
 R2D05 - Made some progress with using an existing container. Worked on bringing all my packages and data in the right place today. #100DaysOfCode
 
 
+The log of my #100DaysOfCode challenge. Re-started on [July 13, Saturday, 2019].
+
 ### Day 1: July 13
 R2D01 - Giving #100DaysOfCode another shot! 🤗
 Set up my container with packages today. Starting with program to use PCA for dimensionality reduction.
@@ -49,3 +51,6 @@ R2D05 - Implemented Logistic Regression for binary and multi-class classificatio
 4) Open vi normally 🎉
 
 #100DaysOfCode
+
+### Day 6: July 18
+R2D06 - Practiced some fundamentals on list and string manipulation using python today. Went over some basic data structures #100DaysOfCode 

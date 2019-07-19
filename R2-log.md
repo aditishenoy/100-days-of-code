@@ -54,3 +54,6 @@ R2D05 - Implemented Logistic Regression for binary and multi-class classificatio
 
 ### Day 6: July 18
 R2D06 - Practiced some fundamentals on list and string manipulation using python today. Went over some basic data structures #100DaysOfCode 
+
+### Day 7: July 19
+R2D07 - Entered my first competition on Kaggle today! Just started getting familiar with kernels and began with some basic visualisation. Additionally learnt about oop in python and studied loss, cost function & gradient descent. Got a lot done today! 💪💪 #100DaysOfCode 

@@ -57,3 +57,6 @@ R2D06 - Practiced some fundamentals on list and string manipulation using python
 
 ### Day 7: July 19
 R2D07 - Entered my first competition on Kaggle today! Just started getting familiar with kernels and began with some basic visualisation. Additionally learnt about oop in python and studied loss, cost function & gradient descent. Got a lot done today! 💪💪 #100DaysOfCode 
+
+### Day 8: July 20
+R2D08 - Worked with filling missing values in features in a new kaggle kernel today! #100DaysOfCode

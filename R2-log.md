@@ -60,3 +60,6 @@ R2D07 - Entered my first competition on Kaggle today! Just started getting famil
 
 ### Day 8: July 20
 R2D08 - Worked with filling missing values in features in a new kaggle kernel today! #100DaysOfCode
+
+### Day 9: July 21
+R2D09 - Went back to some old projects and completed much needed documentation. Worked more with visualisation in my kernel and started using seaborn. Went over some common python DS interview questions #100DaysOfCode

@@ -63,3 +63,6 @@ R2D08 - Worked with filling missing values in features in a new kaggle kernel to
 
 ### Day 9: July 21
 R2D09 - Went back to some old projects and completed much needed documentation. Worked more with visualisation in my kernel and started using seaborn. Went over some common python DS interview questions #100DaysOfCode
+
+### Day 10: July 22
+R2D10 - Spent time with practicing some DS algorithms and prepped for coding interview questions today. https://www.interviewcake.com/table-of-contents … is a lovely resource summarising some basics #100DaysOfCode

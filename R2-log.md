@@ -66,3 +66,7 @@ R2D09 - Went back to some old projects and completed much needed documentation. 
 
 ### Day 10: July 22
 R2D10 - Spent time with practicing some DS algorithms and prepped for coding interview questions today. https://www.interviewcake.com/table-of-contents … is a lovely resource summarising some basics #100DaysOfCode
+
+### Day 11: July 24
+R2D11 - I'm probably late to the party but just came across the beauty of @GoogleColab today! So grateful for this beautiful resource. Spent today exploring! #100DaysOfCode
+

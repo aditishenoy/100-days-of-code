@@ -70,3 +70,7 @@ R2D10 - Spent time with practicing some DS algorithms and prepped for coding int
 ### Day 11: July 24
 R2D11 - I'm probably late to the party but just came across the beauty of @GoogleColab today! So grateful for this beautiful resource. Spent today exploring! #100DaysOfCode
 
+### Day 12: July 25
+R2D12 - Tested Fashion MNIST neural network on Google Colab today and worked with importing kaggle dataset directly into google drive using Colab. #100DaysOfCode #100DaysOfMLCode
+Summarised my notes on #Evernote here: https://www.evernote.com/shard/s423/client/snv?noteGuid=fe990423-df3c-4da3-80ed-b2a36c1b88fc&noteKey=6fab406b96c93370f72cc8a29ec08719&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs423%2Fsh%2Ffe990423-df3c-4da3-80ed-b2a36c1b88fc%2F6fab406b96c93370f72cc8a29ec08719&title=Connect%2BKaggle%2Bto%2BGoogle%2BColab
+

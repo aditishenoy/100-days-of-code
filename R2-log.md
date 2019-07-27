@@ -74,3 +74,9 @@ R2D11 - I'm probably late to the party but just came across the beauty of @Googl
 R2D12 - Tested Fashion MNIST neural network on Google Colab today and worked with importing kaggle dataset directly into google drive using Colab. #100DaysOfCode #100DaysOfMLCode
 Summarised my notes on #Evernote here: https://www.evernote.com/shard/s423/client/snv?noteGuid=fe990423-df3c-4da3-80ed-b2a36c1b88fc&noteKey=6fab406b96c93370f72cc8a29ec08719&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs423%2Fsh%2Ffe990423-df3c-4da3-80ed-b2a36c1b88fc%2F6fab406b96c93370f72cc8a29ec08719&title=Connect%2BKaggle%2Bto%2BGoogle%2BColab
 
+### Day 13: July 26
+R2D13 - Created seaborn visualisations and trained a neural network on diabetic retinopathy dataset for kaggle competition #100DaysOfCode #100DaysOfMLCode
+
+### Day 14: July 27
+R2D14 - Worked with image paths and ids from csv files. I often used to get confused while dissociating labels from training data so worked through that using an example  today. #100DaysOfCode #100DaysOfMLCode 
+Progress documented in this kernel: https://www.kaggle.com/adishev17/skin-cancer-mnist

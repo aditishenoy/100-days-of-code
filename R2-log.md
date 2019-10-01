@@ -4,12 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [October 1, Tuesday, 2019].
 
 ## Log
 
-### Day 1: January 8, Tuesday
+### ✨ R2D1 ✨
 
-**Today's Progress**: Worked with downloading datasets from Kaggle using command line and Kaggle API. Downloaded and unziped image files for project using python3. 
+**Today's Progress**: Started working with Rosalind Bioinformatics Problems again! Done with solving INI1-INI6 in Python Village. 
 
-**Thoughts** Struggling with command line and getting the path right for the download. Started using GitHub and learnt about convolutional neural networks.  
+**Thoughts** Giving another shot at Round 2 of #100DaysOfCode. Hoping to keep up with the challenge this time! 
 
-**Link(s) to work**
-Starting work on https://www.kaggle.com/c/histopathologic-cancer-detection
-Getting help for downloading datasets from Kaggle API from https://www.kaggle.com/docs/api#getting-started-installation-&-authentication
+**Link(s) to work** http://rosalind.info/problems/list-view/?location=python-village

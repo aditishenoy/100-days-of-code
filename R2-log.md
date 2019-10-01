@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [October 1, Tuesday, 2019].
 
 ## Log
 
-### ✨ R2D1 ✨
+### ✨ R2D01 ✨
 
 **Today's Progress**: Started working with Rosalind Bioinformatics Problems again! Done with solving INI1-INI6 in Python Village. 
 

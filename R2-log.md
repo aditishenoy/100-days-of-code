@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on [October 1, Tuesday, 2019].
 **Thoughts** Not too much progress today. Need to focus better from tomorrow!
 
 **Link(s) to work** https://www.hpc2n.umu.se/documentation/guides; https://hpc-uit.readthedocs.io/en/latest/jobs/examples.html
+
+### ✨ R2D03 ✨
+
+**Today's Progress**: Trying to migrate from imperative to object-oriented programming while attempting a Rosalind Problem to find GC content in FASTA sequence
+
+**Thoughts** Finding it difficult to think in terms of objects and classes when I'm used to just writing lines to solve the respective problem. 
+
+**Link(s) to work** 
